@@ -33,7 +33,7 @@ For more information on the importance of a professional README for your reposit
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Lezatara</b></h3>
 
 </div>
 
@@ -63,11 +63,9 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Lezatara <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[your_project__name]** is a...
+> Aplikasi Lezatara dirancang dengan memperhatikan berbagai kebutuhan pengguna yang ingin menjelajahi, memasak, dan mendalami kekayaan kuliner Nusantara. Pada website ini pula terdapat fitur searching untuk mempersingkat pengalaman pengguna dalam mencari resep makanan yang diinginkan, selain itu ada fitur favorite yang dapat digunakan untuk menyimpan makanan kesukaan pengguna.
 
 ## 🛠 Built With <a name="built-with"></a>
 
